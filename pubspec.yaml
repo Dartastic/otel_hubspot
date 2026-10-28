@@ -2,7 +2,7 @@ name: otel_hubspot
 description: >-
   OpenTelemetry instrumentation for hubspot by Dartastic.io. Adds standard
   OpenTelemetry observability to applications that use hubspot.
-version: 0.1.0-wip
+version: 0.1.0
 repository: https://github.com/dartastic/otel_hubspot
 homepage: https://dartastic.io
 
